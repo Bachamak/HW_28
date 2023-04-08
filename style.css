@@ -1,0 +1,14 @@
+.close-view,
+.open-view {
+  width: 100px;
+  height: 100px;
+}
+
+.close-view {
+  border: #f00 solid 1px;
+}
+
+.open-view {
+  border: #000 solid 1px;
+  display: none;
+}
